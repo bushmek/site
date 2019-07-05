@@ -1,0 +1,20 @@
+
+
+body {
+	background-image: url(/Kartinka3.a628f0c2.jpg);
+	 width:100%;}
+.main {
+display:flex;
+	margin:auto;
+	width:76%;
+	height:500px;
+	border:1px solid white;
+}
+h1 {
+	
+  text-align: center;
+}
+    
+
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
